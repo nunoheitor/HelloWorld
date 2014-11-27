@@ -17,8 +17,6 @@ public class CreateRandomPairs {
         back_end.add("Catarina");
         front_end.add("Carolina");
         back_end.add("Carolina");
-        front_end.add("Mariana");
-        back_end.add("Mariana");
 
         CreateRandomPairs crp = new CreateRandomPairs();
 
